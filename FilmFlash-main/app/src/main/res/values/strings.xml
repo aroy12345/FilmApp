@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FilmFlash</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="review_details">Review Details</string>
+    <string name="poster_description">Poster</string>
+    <string name="movie_backdrop_description">Movie Backdrop</string>
+    <string name="backdrop_shade_description">Backdrop Shade</string>
+    <string name="rating">Rating</string>
+    <string name="length">Length</string>
+    <string name="adult">Adult</string>
+    <string name="release_date">Release Date</string>
+    <string name="genres">Genres</string>
+    <string name="overview">Overview</string>
+    <string name="languages">Languages</string>
+    <string name="reviews_section_title">Reviews (%d)</string>
+    <string name="user_profile_picture_description">User Profile Picture</string>
+    <string name="no_reviews_text">There are currently no reviews.</string>
+    <string name="rating_template">%.1f/10</string>
+    <string name="votes_template">%d votes</string>
+    <string name="length_template">%1$dh %2$dm</string>
+    <string name="share">SHARE</string>
+    <string name="share_prompt">Invite your friends to watch this movie.</string>
+    <string name="share_error">Oops, something went wrong. Please try again later.</string>
+    <string name="share_template">%s releases on %s. Watch it with me in the theatres!</string>
+    <string name="share_button_description">Share Button</string>
+</resources>

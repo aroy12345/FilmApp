@@ -1,2 +1,2 @@
 # FilmApp
-An advanced kotlin app to display movies. Was my final project for android development class.
+Final project for android development class: an advanced kotlin app to display movies.
